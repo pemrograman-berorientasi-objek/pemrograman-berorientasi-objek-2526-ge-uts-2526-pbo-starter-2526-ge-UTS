@@ -1,13 +1,3 @@
-package academic.driver;
-
-/**
- * @author NIM Nama
- * @author NIM Nama
- */
-public class Driver3 {
-
-    public static void main(String[] _args) {
-
 package fintech.driver;
 import java.util.ArrayList;
 import java.util.Scanner;
@@ -69,7 +59,3 @@ public class Driver3 {
 }       
 
 
-
-    }
-
-}
